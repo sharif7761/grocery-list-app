@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/grocery-list-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/grocery-list-app/static/js/main.56c3ab7f.chunk.js",
+    "main.js.map": "/grocery-list-app/static/js/main.56c3ab7f.chunk.js.map",
+    "runtime-main.js": "/grocery-list-app/static/js/runtime-main.ba668a5a.js",
+    "runtime-main.js.map": "/grocery-list-app/static/js/runtime-main.ba668a5a.js.map",
+    "static/js/2.57dd891b.chunk.js": "/grocery-list-app/static/js/2.57dd891b.chunk.js",
+    "static/js/2.57dd891b.chunk.js.map": "/grocery-list-app/static/js/2.57dd891b.chunk.js.map",
+    "static/js/3.60884402.chunk.js": "/grocery-list-app/static/js/3.60884402.chunk.js",
+    "static/js/3.60884402.chunk.js.map": "/grocery-list-app/static/js/3.60884402.chunk.js.map",
+    "index.html": "/grocery-list-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/grocery-list-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.57dd891b.chunk.js.LICENSE.txt": "/grocery-list-app/static/js/2.57dd891b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/grocery-list-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba668a5a.js",
+    "static/js/2.57dd891b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.56c3ab7f.chunk.js"
+  ]
+}
